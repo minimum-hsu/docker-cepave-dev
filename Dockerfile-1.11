@@ -1,0 +1,6 @@
+FROM docker:1.11
+
+RUN \
+    apk add -q --no-cache python3 \
+    && pip3 install -U pip docker-py docker-compose
+
