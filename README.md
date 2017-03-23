@@ -6,5 +6,5 @@
 # Installed python packages
 
 * pip
-* docker-py
+* docker
 * docker-compose
