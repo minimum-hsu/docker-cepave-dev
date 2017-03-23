@@ -8,5 +8,5 @@ RUN \
 
 RUN \
     apk add -q --no-cache python3 \
-    && pip3 install -U pip docker-py docker-compose
+    && pip3 install -U pip docker-compose
 

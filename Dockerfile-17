@@ -1,4 +1,4 @@
-FROM docker:1.12
+FROM docker:17
 
 # Set timezone
 RUN \
